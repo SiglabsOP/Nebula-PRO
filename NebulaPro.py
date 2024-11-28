@@ -9,6 +9,8 @@ from tkcalendar import Calendar
 import threading
 
 
+
+
 class AgendaApp(tk.Tk):
     def __init__(self):
         super().__init__()
@@ -439,6 +441,16 @@ class AgendaApp(tk.Tk):
     
         reset_button = ttk.Button(search_frame, text="Reset", command=self.refresh_agenda_view)
         reset_button.pack(side="left", padx=5)
+    
+        analyze_button = ttk.Button(search_frame, text="Analyze", command=self.launch_analyze_program)
+        analyze_button.pack(side="left", padx=5)
+    
+    def launch_analyze_program(self):
+        try:
+            python_executable = sys.executable  # Get the Python executable
+            subprocess.Popen([python_executable, "Nebula Visualizer.py"], cwd=os.getcwd())
+        except Exception as e:
+            messagebox.showerror("Error", f"An error occurred while launching the analysis program: {str(e)}")
 
     def perform_search(self):
         query = self.search_entry.get().lower()
