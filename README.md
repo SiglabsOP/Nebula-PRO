@@ -42,7 +42,7 @@ compile with pyinstaller --hidden-import babel.numbers --hidden-import babel Neb
  PATCH 12: added multithreading 
 
 If you enjoy this program, buy me a coffee https://buymeacoffee.com/siglabo
-You can use it free of charge or build upon my code. Happy trading!
+You can use it free of charge or build upon my code. 
  
  
 (c) Peter De Ceuster 2024
