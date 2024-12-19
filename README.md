@@ -183,7 +183,7 @@ Generate an encrypted key with Nebula PRO for this program to work.
 ![Screenshot 2024-12-19 105032](https://github.com/user-attachments/assets/3ff40317-53b0-4ff2-adf3-7c050e020929)
 ![Screenshot 2024-12-19 105023](https://github.com/user-attachments/assets/3b1bb60d-3f66-4bfc-8fb3-f78c6eade51c)
 
- ![Screenshot 2024-12-13 222624](https://github.com/user-attachments/assets/a14af16e-b01f-4390-9214-887fc755e871)
+
 
 If you would like to have the non-obfuscated source code, contact me through my website, and buy me a coffee!
 These have been omitted to aid security. 
