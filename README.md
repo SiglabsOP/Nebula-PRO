@@ -4,6 +4,8 @@ Nebula Pro v 18.1 ` Python Pioneer `
  
 Nebula Pro Agenda Application - Highly secure organizer in Python
 
+The most secure Python Organizer in the world.
+
 Overview
 Nebula Pro is a dynamic, encrypted Tkinter-based desktop agenda application that runs secure in memory and is designed to manage and organize events effectively.
 The application includes features for adding, editing, viewing, searching, and deleting events in an intuitive and user-friendly interface.
