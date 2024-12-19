@@ -162,6 +162,27 @@ Generate an encrypted key with Nebula PRO for this program to work.
 
 
 
+![Screenshot 2024-12-19 105354](https://github.com/user-attachments/assets/55a2fef5-80f5-4b82-b924-722ea9cd2233)
+
+
+![Screenshot 2024-12-19 105219](https://github.com/user-attachments/assets/dff3d1e0-653e-4a50-87e7-076505eeec6e)
+
+![Screenshot 2024-12-19 105209](https://github.com/user-attachments/assets/0216635f-ff19-4339-93ac-28343425bcd9)
+
+![Screenshot 2024-12-19 105156](https://github.com/user-attachments/assets/7b3fdd18-156c-434b-ba55-010e29f78e8b)
+
+![Screenshot 2024-12-19 105150](https://github.com/user-attachments/assets/2de53f0d-023b-45c3-8587-5114874f5867)
+
+![Screenshot 2024-12-19 105123](https://github.com/user-attachments/assets/cb9d741f-73b4-480a-81ab-f3dd8003564d)
+
+![Screenshot 2024-12-19 105101](https://github.com/user-attachments/assets/ea58ab11-5ced-43db-a228-d7141061ec28)
+
+![Screenshot 2024-12-19 105055](https://github.com/user-attachments/assets/165ba2c1-722c-4145-a3b8-d47997e38427)
+
+![Screenshot 2024-12-19 105038](https://github.com/user-attachments/assets/5e630249-983a-4b8c-9d2c-bfd16da00ad7)
+![Screenshot 2024-12-19 105032](https://github.com/user-attachments/assets/3ff40317-53b0-4ff2-adf3-7c050e020929)
+![Screenshot 2024-12-19 105023](https://github.com/user-attachments/assets/3b1bb60d-3f66-4bfc-8fb3-f78c6eade51c)
+
  
 If you would like to have the non-obfuscated source code, contact me through my website, and buy me a coffee!
 These have been omitted to aid security. 
