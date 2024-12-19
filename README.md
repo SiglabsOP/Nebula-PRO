@@ -4,7 +4,8 @@ Nebula Pro v 18.1 ` Python Pioneer `
  
 Nebula Pro Agenda Application - Highly secure organizer in Python
 
-The most secure Python Organizer in the world.
+ 
+The most secure Python Organizer in the world. 
 
 Overview
 Nebula Pro is a dynamic, encrypted Tkinter-based desktop agenda application that runs secure in memory and is designed to manage and organize events effectively.
@@ -131,11 +132,10 @@ launched the monitor since it will persist in the background.
 Nebula PRO will, automatical launch the monitor, so its probably best to launch Nebula PRO on boot,
 check your schedule once daily, close it, and you will have alerts for the rest of the day. 
 
-Both visualizer and monitor included, handle encryption in a secure way. 
-Run the visualizer from within the program since, the data is now encrypted, add data before you run the visualizer
-You need to setup a password before program launch. 
-Your cloud token and credentials are encrypted too.
-Your encryptionkey is best saved elsewhere, however, it is encrypted a second time too as extra measure. (use your password to access)
+Both visualizer and monitor included, handle encryption in a solid secure way. Locking mecanism ensure stability.
+You may only run the visualizer from within the program since, the data is  encrypted.  Add data first before you run the visualizer.
+You need to setup a password before program launch and your cloud token and credentials are encrypted too.
+Your encryptionkey is best saved elsewhere, however, it is encrypted a second time too as extra measure. (you use your password on program launch)
  
  PATCH 12: added multithreading
  
