@@ -123,7 +123,7 @@ the monitor will warn only once for each appointment and check each five minutes
 ,place it in your windows startup folder so it launches on boot!
 
 Both visualizer and monitor included, handle encryption in a secure way. 
-Run the visualizer from within the program since, the data is now encrypted. 
+Run the visualizer from within the program since, the data is now encrypted, add data before you run the visualizer
 You need to setup a password before program launch. 
 Your cloud token and credentials are encrypted too.
 Your encryptionkey is best saved elsewhere, however, it is encrypted a second time too as extra measure. (use your password to access)
