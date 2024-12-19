@@ -118,9 +118,16 @@ You get the token file after granting permission through google drive, the first
 
 Monitor:
 
-Nebula Monitor 3.3 has been included.
-the monitor will warn only once for each appointment and check each five minutes, it will run continious
-,place it in your windows startup folder so it launches on boot!
+Nebula Monitor 3.3 has been included. It consists of an obfuscated monitor compiled into an exe.
+It will check every 150 seconds
+the monitor will warn only once for each appointment and , it will run continious
+It is using AESGCM internally to process its data in memory and securely erases its tracks.
+An ephemeral method is used to access the secured data, this is very secure, the monitor is foolproof.
+The monitor will only work when launched from -inside- a working Nebula PRO instance. However, you can close, Nebula PRO after you have
+launched the monitor since it will persist in the background. 
+
+Nebula PRO will, automatical launch the monitor, so its probably best to launch Nebula PRO on boot,
+check your schedule once dailyi, and close it, and you will have alerts for the rest of the day. 
 
 Both visualizer and monitor included, handle encryption in a secure way. 
 Run the visualizer from within the program since, the data is now encrypted, add data before you run the visualizer
