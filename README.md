@@ -182,6 +182,9 @@ Generate an encrypted key with Nebula PRO for this program to work.
 ![Screenshot 2024-12-19 105038](https://github.com/user-attachments/assets/5e630249-983a-4b8c-9d2c-bfd16da00ad7)
 ![Screenshot 2024-12-19 105032](https://github.com/user-attachments/assets/3ff40317-53b0-4ff2-adf3-7c050e020929)
 ![Screenshot 2024-12-19 105023](https://github.com/user-attachments/assets/3b1bb60d-3f66-4bfc-8fb3-f78c6eade51c)
+![Screenshot 2024-12-19 110321](https://github.com/user-attachments/assets/2f8f57fd-654b-4e36-9517-a028c407f52a)
+![Screenshot 2024-12-19 110327](https://github.com/user-attachments/assets/c7eabdce-a877-4772-ac24-2bdee2a8f35d)
+![Screenshot 2024-12-19 110313](https://github.com/user-attachments/assets/90c7a47d-893c-4800-944e-cf44af002ee1)
 
 
 
