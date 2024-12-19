@@ -101,7 +101,10 @@ Visualizer:
 Run the Visualizer program as well, from the same directory of Nebula to have extra functionality.
 
 Cloud:
-If you wish to use the cloud functionality, you will need an AUTH json file, from google, save it in the same directory.  It will save at your google drive.
+If you wish to use the cloud functionality, you will need an AUTH json file, from google, save it in the same directory. 
+Make sure you rename it, it should be named credentials.json
+Nebula PRO will secure this file when it detects the json file.
+Nebula will save your data at your google drive.
 It will overwrite the same file.
 Data is encrypted in the cloud and on your drive. It is not kept insecure in memory nor on your disk.
 
