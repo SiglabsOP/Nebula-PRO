@@ -129,7 +129,7 @@ The monitor will only work when launched from -inside- a working Nebula PRO inst
 launched the monitor since it will persist in the background. 
 
 Nebula PRO will, automatical launch the monitor, so its probably best to launch Nebula PRO on boot,
-check your schedule once dailyi, and close it, and you will have alerts for the rest of the day. 
+check your schedule once daily, close it, and you will have alerts for the rest of the day. 
 
 Both visualizer and monitor included, handle encryption in a secure way. 
 Run the visualizer from within the program since, the data is now encrypted, add data before you run the visualizer
